@@ -17,5 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 
 Connect with me:)
+[![Twitter][http://i.imgur.com/tXSoThF.png]][https://twitter.com/AyushGandhii]
 
-http://i.imgur.com/tXSoThF.png.https://twitter.com/AyushGandhii
+
