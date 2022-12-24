@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ayush-3150
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning MERN stack and Springboot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👯 I’m looking for full-time job as Software Developer.
+- 🤔 I'm looking for opportunities that help me to upgrade as well as polish my skills.
 
 <!---
 ayush-3150/ayush-3150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
