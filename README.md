@@ -15,6 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayush-3150&theme=dracula)](https://git.io/streak-stats)
 
-https://icons8.com/icon/60014/twitter/AyushGandhii
 
 
