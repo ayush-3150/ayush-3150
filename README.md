@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Ayush Gandhi**
+- 👀 I’m a **Software Engineer**.
 - 👀 I’m interested in **full-stack development**
-- 📖 I’m currently learning **MERN** stack and **Springboot**
-- 👀 I’m looking for full-time job as **Software Engineer**.
+- 📖 I’m currently learning **Springboot**
 - 👀 I'm looking for opportunities that help me to upgrade as well as polish my skills.
 
 <!---
